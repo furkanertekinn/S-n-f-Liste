@@ -1,0 +1,8 @@
+C:\Users\Furkan\source\repos\DizilerOrnekUygulamalar\DizilerOrnekUygulamalar\bin\Debug\DizilerOrnekUygulamalar.exe.config
+C:\Users\Furkan\source\repos\DizilerOrnekUygulamalar\DizilerOrnekUygulamalar\bin\Debug\DizilerOrnekUygulamalar.exe
+C:\Users\Furkan\source\repos\DizilerOrnekUygulamalar\DizilerOrnekUygulamalar\bin\Debug\DizilerOrnekUygulamalar.pdb
+C:\Users\Furkan\source\repos\DizilerOrnekUygulamalar\DizilerOrnekUygulamalar\obj\Debug\DizilerOrnekUygulamalar.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\DizilerOrnekUygulamalar\DizilerOrnekUygulamalar\obj\Debug\DizilerOrnekUygulamalar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\DizilerOrnekUygulamalar\DizilerOrnekUygulamalar\obj\Debug\DizilerOrnekUygulamalar.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\DizilerOrnekUygulamalar\DizilerOrnekUygulamalar\obj\Debug\DizilerOrnekUygulamalar.exe
+C:\Users\Furkan\source\repos\DizilerOrnekUygulamalar\DizilerOrnekUygulamalar\obj\Debug\DizilerOrnekUygulamalar.pdb
